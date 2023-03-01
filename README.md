@@ -1,2 +1,2 @@
 # MSIBnew
-NOname
+Praktik membuat repository
